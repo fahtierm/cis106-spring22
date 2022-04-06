@@ -27,3 +27,9 @@ semester: spring 22
 ![](q.4.5.png)
 
 # Challenge Question
+![](q5.1c.png)
+![](q5.2c.png)
+![](q5.3c.png)
+![](q5.4c.png)
+![](q5.5c.png)
+![](q5.6c.png)
