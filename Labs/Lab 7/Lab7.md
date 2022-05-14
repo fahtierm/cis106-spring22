@@ -1,3 +1,9 @@
+---
+Name: Fahtier Mcdowell
+class: cis 106
+semester: spring 22
+---
+
 ## Question 1: cat, tac, head, tail 
 ![](q1.1.png)
 ![](q1.2.png)
